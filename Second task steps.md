@@ -1,5 +1,5 @@
 
-##The requirement for this task is to add a new degree of freedom to the robot arm.
+## The requirement for this task is to add a new degree of freedom to the robot arm.
 ### First I started to design the perfect shape that meets the essential requirements for the robot using the Onshape program 
 ### Second I set up the dimensions and finish up the hole design 
 ### Third I added this part for my initial design that I made previously 

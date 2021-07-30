@@ -9,7 +9,8 @@
 
 
 ## Second Task 
+### Explain For The Task [Done ](https://github.com/FaiyKhalid/mechenical-engineering/blob/main/Second%20task%20steps.md)
 ### 2.1 design a Degree of Freedom for the Robot Arm (Onshape) [Done ](https://github.com/FaiyKhalid/mechenical-engineering/blob/main/degree%20of%20freedom.stl)
 ### 2.2 Collect the parts (Tinkercad) [Done ](https://github.com/FaiyKhalid/mechenical-engineering/blob/main/Robot%20arm%20with%20adding%20degree%20of%20freedom.stl)
-### Explain For The Task [Done ](https://github.com/FaiyKhalid/mechenical-engineering/blob/main/Second%20task%20steps.md)
+
 

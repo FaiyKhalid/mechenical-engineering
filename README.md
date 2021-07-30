@@ -9,5 +9,6 @@
 
 
 ## Second Task Done
-### 2.1 design an end effector part for the robot arm 
+### 2.1 design a Degree of Freedom for the Robot Arm (Onshape) 
+### 2.2 Collect the parts (Tinkercad)
 
